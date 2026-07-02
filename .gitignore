@@ -12,3 +12,5 @@ venv/
 outputs/*
 !outputs/.gitkeep
 
+# Private academic report and all LaTeX/Overleaf files.
+/report/
